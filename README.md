@@ -3,6 +3,11 @@
 **Author:** Linktri  
 **Version:** 1.0  
 
+*******WARNING******* THIS ADDON SENDS A CHECK COMMAND FOR EACH MOB IN RANGE EVEN THOUGH YOU CANNOT SEE IT OCURRING. AS A SAFETY PRECAUTION EACH CHECK ACTION IS SET TO OCCUR 1.5 SECONDS FROM THE LAST. 
+*******WARNING******* AUTO CHECK IS SET TO 20 SECONDS. THIS MEANS THAT YOU IF YOU ARE IN RANGE OF 80 MOBS, IT WILL TAKE 2 MINS TO COMPLETE DETECTION. YOU CAN CHANGE THE FREQUENCY OF AUTO SCAN AND MANUALLY TRIGGER SCANS. 
+*******WARNING******* YOU CAN OVERLOAD THE FFXI SERVER IF YOU MODIFY THESE SETTINGS, WHICH WILL LIKELY RESULT IN A PERMANENT BAN. 
+
+
 GLF is a Windower addon for Final Fantasy XI that automatically detects "impossible to gauge" notorious monsters in Limbus zones (Apollyon and Temenos). This addon is specifically designed for the 2025 Limbus content update where notorious monsters spawn with unknown conditions and can only be identified by their difficulty rating.
 
 ## Features
